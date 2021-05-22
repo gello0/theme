@@ -30,7 +30,7 @@ public class BetterStatus extends Plugin {
         manifest.authors = new Manifest.Author[]{ new Manifest.Author("vortextriangle#1337", 431860487609778176) };
         manifest.description = "Changes Discord default status icons (online,idle etc..) to better ones.";
         manifest.version = "1.0.0";
-        manifest.updateUrl = "https://raw.githubusercontent.com/gello/theme/builds/updater.json";
+        manifest.updateUrl = "https://raw.githubusercontent.com/gello0/theme/builds/updater.json";
         return manifest;
     }
 
