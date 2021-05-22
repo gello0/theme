@@ -27,7 +27,7 @@ public class BetterStatus extends Plugin {
     @Override
     public Manifest getManifest() {
         Manifest manifest = new Manifest();
-        manifest.authors = new Manifest.Author[]{ new Manifest.Author("vroom", 405674687549669376) };
+        manifest.authors = new Manifest.Author[]{ new Manifest.Author("vroom", 405674687) };
         manifest.description = "Changes Discord default status icons (online,idle etc..) to better ones.";
         manifest.version = "1.0.0";
         manifest.updateUrl = "https://raw.githubusercontent.com/gello0/theme/builds/updater.json";
